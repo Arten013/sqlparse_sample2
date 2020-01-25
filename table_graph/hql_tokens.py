@@ -186,8 +186,7 @@ class WhereCondition(HQLTokenWrapper):
 
     def get_subquery_alias(self):
         """
-        HiveQL対応版のget_aliasメソッド
-        オリジナルはWHERE句の中のサブクエリに未対応だったため、その部分を追記したもの。
+        WHERE IN 対応版のget_aliasメソッド
         """
         from sqlparse.tokens import Whitespace
         # "name AS alias"
