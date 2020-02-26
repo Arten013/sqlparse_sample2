@@ -1,4 +1,4 @@
-# sqlparseサンプルコード その2 (開発中)
+# sqlparseサンプルコード その2
 
 [sqlparseの解説記事中](https://blog.hoxo-m.com/entry/sqlparse_parse) で紹介したサンプルコードです。
 詳しくは記事をご参照ください。
